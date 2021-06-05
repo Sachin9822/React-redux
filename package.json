@@ -2,7 +2,7 @@
   "name": "redux-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sachin9822.github.io/react-redux",
+  "homepage": "http://sachin9822.github.io/React-redux",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@reduxjs/toolkit": "^1.5.1",
