@@ -2,6 +2,7 @@
   "name": "redux-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://gitname.github.io/react-gh-pages",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@reduxjs/toolkit": "^1.5.1",
@@ -11,6 +12,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.3",
+    "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "react-scripts": "4.0.3"
   },
   "scripts": {
